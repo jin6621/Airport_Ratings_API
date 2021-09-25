@@ -53,7 +53,7 @@ Code:
 
 Reference: [Nearby Search API](https://developers.google.com/maps/documentation/places/web-service/search-nearby)
 
-Request.get complete, and add data to new columns. ![ny_ex2](Resources/ny_ex2.png)
+Request.get complete, and add data to new columns. ![ex1](Resources/ex1.png)
 
 Code:
 	
@@ -101,4 +101,4 @@ Code:
 	    
 
 Final Output: (Dataframe that includes new columns: lat, lng, airpot name, airport address, and airpot rating.)
-![output_image](Resources/output_image.png)
+![ex2](Resources/ex2.png)
